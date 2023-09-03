@@ -1,4 +1,4 @@
-# 🌲 Forest
+# 🌲 Forest WIP
 
 A dark and light [Neovim](https://github.com/neovim/neovim) theme written in
 [Lua](https://www.lua.org) ported from the [forest](https://github.com/folke/forest.nvim) theme. Includes
