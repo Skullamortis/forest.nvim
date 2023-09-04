@@ -71,7 +71,7 @@ function M.setup()
 
   -- map of style to style name
   local styles = {
-    storm = " Storm",
+    serene = " serene",
     night = "",
     day = " Day",
     moon = " Moon",

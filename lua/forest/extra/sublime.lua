@@ -10,7 +10,7 @@ end
 
 -- vim.schedule(function()
 --   local config = require("forest.config")
---   config.setup({ style = "storm" })
+--   config.setup({ style = "serene" })
 --   local colors = require("forest.colors").setup()
 --
 --   local lookup = {}
