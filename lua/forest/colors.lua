@@ -5,8 +5,8 @@ local M = {}
 ---@class Palette
 M.default = {
 	none = "NONE",
-	bg_dark = "#222a2a",
-	bg = "#2e3838",
+	bg_dark = "#0b0e0e",
+	bg = "#0f1a1e",
 	bg_highlight = "#192326",
 	terminal_black = "#738c8c",
 	fg = "#c4ffcc",
@@ -20,12 +20,12 @@ M.default = {
 	cyan = "#a2ffd1",
 	blue1 = "#4dff4d",
 	blue2 = "#00cc00",
-	blue5 = "#619d9e",
+	blue5 = "#619dee",
 	blue6 = "#e6ffe6",
 	blue7 = "#348d4a",
 	magenta = "#ffbf00",
 	magenta2 = "#990011",
-	purple = "#7540bf",
+	purple = "#c47321",
 	orange = "#ff531a",
 	yellow = "#d2ff4d",
 	green = "#18805e",
@@ -43,8 +43,8 @@ M.default = {
 }
 
 M.night = {
-	bg = "#0f1a1e",
-	bg_dark = "#0b0e0e",
+	bg = "#0b0e0e",
+	bg_dark = "#000000",
 }
 M.day = M.night
 
